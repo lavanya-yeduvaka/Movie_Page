@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+.card-container {
+    font-family: "Roboto";
+}
+
+.h-heading {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: px;
+    margin: 15px;
+
+}
+
+.button {
+    color: #ff8348;
+    border-radius: 5px;
+    background-color: white;
+    width: 30vw;
+    height: 7vh;
+    border-width: 0px;
+    margin: 15px;
+}
+
+.paragraph {
+    color: white;
+    margin: 5px;
+}
+
+.movies-heading {
+    color: white;
+    font-size: 20px;
+}
+
+.movie-cards {
+    width: 25vw;
+    height: 20vh;
+    margin: 10PX;
+}
